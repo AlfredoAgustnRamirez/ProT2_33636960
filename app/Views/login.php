@@ -18,6 +18,7 @@
                     </div>
                     <div class="d-grid">
                         <button type="button" class="btn btn-primary btn-block">Iniciar Sesión</button>
+                        <button type="button" class="btn btn-secondary">Cancelar</button>
                     </div>
                 </form>
             </div>
