@@ -17,7 +17,7 @@
                         <input type="password" name="password" placeholder="Contraseña" class="form-control mb-3">
                     </div>
                     <div class="d-grid">
-                        <button type="button" class="btn btn-primary btn-block">Iniciar Sesión</button>
+                        <button type="button" class="btn btn-primary">Iniciar Sesión</button>
                         <button type="button" class="btn btn-secondary">Cancelar</button>
                     </div>
                 </form>
