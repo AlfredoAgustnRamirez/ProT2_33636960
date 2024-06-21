@@ -35,7 +35,8 @@
           <input id="customCheck1" type="checkbox" checked class="custom-control-input">
           <label for="customCheck1" class="custom-control-label">Recordar contraseña</label>
         </div>
-        <button type="button" class="btn btn-primary btn-block">Guardar</button>
+        <button type="button" class="btn btn-primary">Guardar</button>
+        <button type="button" class="btn btn-secondary">Cancelar</button>
       </div>
     </form>
   </div>
